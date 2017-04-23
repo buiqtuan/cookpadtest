@@ -1,0 +1,8 @@
+/Users/applefamily/Workspace/cookpad/bin/Debug/netcoreapp1.1/cookpad.deps.json
+/Users/applefamily/Workspace/cookpad/bin/Debug/netcoreapp1.1/cookpad.runtimeconfig.json
+/Users/applefamily/Workspace/cookpad/bin/Debug/netcoreapp1.1/cookpad.runtimeconfig.dev.json
+/Users/applefamily/Workspace/cookpad/bin/Debug/netcoreapp1.1/cookpad.dll
+/Users/applefamily/Workspace/cookpad/bin/Debug/netcoreapp1.1/cookpad.pdb
+/Users/applefamily/Workspace/cookpad/obj/Debug/netcoreapp1.1/cookpad.AssemblyInfo.cs
+/Users/applefamily/Workspace/cookpad/obj/Debug/netcoreapp1.1/cookpad.dll
+/Users/applefamily/Workspace/cookpad/obj/Debug/netcoreapp1.1/cookpad.pdb
