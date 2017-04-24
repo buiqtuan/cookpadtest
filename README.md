@@ -5,7 +5,7 @@ This is the solution for Cookpad recruitment test, type General
 
 Build by dotnet Core 1.1
 
-Build command : dotnet build | Test command : donet run [int32] | ex : dotnet run 1
+Build command : dotnet build | Test command : dotnet run [int32] | ex : dotnet run 1
 
 #Q2_DatabaseDesign
 
